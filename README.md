@@ -1,4 +1,4 @@
-# cf_ai_studyedge 🎓
+# cf_ai_studyedge 
 
 An AI-powered study assistant and Q&A chatbot built on Cloudflare's AI stack.
 
